@@ -1,0 +1,23 @@
+# Maven
+target/
+*.class
+
+# IDE specific
+nbproject/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+nb-configuration.xml
+
+# Compiled files
+*.war
+*.ear
+*.jar
+
+# Logs
+*.log
+
+# Other
+.DS_Store
