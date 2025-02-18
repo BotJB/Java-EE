@@ -1,0 +1,4 @@
+com\mycompany\einvoicing2\resources\JavaEE8Resource.class
+com\mycompany\einvoicing2\JAXRSConfiguration.class
+com\mycompany\einvoicing2\entities\User.class
+com\mycompany\einvoicing2\Service\UserService.class
